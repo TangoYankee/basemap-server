@@ -1,4 +1,4 @@
-FROM maptiler/tileserver-gl-light:v4.4.10
+FROM maptiler/tileserver-gl-light:v4.5.0
 
 COPY ./config.json /data
 
